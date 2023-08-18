@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vuckoviic
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning basics of HTML and CSS
+- 🌱 I’m currently learning basics of HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
